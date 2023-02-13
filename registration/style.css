@@ -6,8 +6,8 @@ html, body {
 body {
  background: no-repeat top/100% url("quadri.png");
  # background-position: top;
- min-width: 100%;
- min-height: 100%;
+ min-width: auto;
+ min-height: auto%;
 }
 .box {
   border: 2px solid #c4c4c4;
