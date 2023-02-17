@@ -50,7 +50,7 @@ if (isset($_POST['username'])){
   $rows = mysqli_num_rows($result);
   if($rows==1){
       $_SESSION['username'] = $username;
-      header("Location: /regsitration/site/index.html");
+      header("Location: /registration/site/index.html");
   }else{
     $message = "Le nom d'utilisateur ou le mot de passe est incorrect.";
   }
