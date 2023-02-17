@@ -1,20 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z9NK68ZC4J"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-Z9NK68ZC4J');
-</script>
-
   <title>SRVAPP01 - LOGIN</title>
   <link rel="stylesheet" href="style.css" />
 </head>
-
 <style>
 th, td {
   border: 1px solid black;
