@@ -22,14 +22,13 @@ th, td {
 
 <center>
 <table>
-<th width="1000"><h2 style="color:#4e7db0">TITRE PROFESSIONNEL ADMINISTRATEUR SYSTEME DEVOPS  
-2022/2023</h2></th>
+<th width="1000"><h2 style="color:#4e7db0"></h2></th>
 </table>
 
 <br><br>
 
 <table>
-<th width="1000"><h3 style="color:#4e7db0">PROJET TECHNIQUE = PIPELINE DE DEVELOPPEMENT ET INFRASTRUCTURE CLOUD</h3></th>
+<th width="1000"><h3 style="color:#4e7db0"></h3></th>
 </table>
 </center>
 
