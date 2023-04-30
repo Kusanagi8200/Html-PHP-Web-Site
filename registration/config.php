@@ -1,8 +1,8 @@
 <?php
 // Informations d'identification
 define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 'admin-dv');
-define('DB_PASSWORD', 'Kusanagi2045');
+define('DB_USERNAME', '');
+define('DB_PASSWORD', '');
 define('DB_NAME', 'registration');
 
 // Connexion à la base de données MySQL
