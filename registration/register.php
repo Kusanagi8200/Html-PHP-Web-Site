@@ -74,7 +74,7 @@ if (isset($_REQUEST['username'], $_REQUEST['email'], $_REQUEST['password'])){
 
 <center>
 <table>
-<th width="1000"><h3 style="color:#4e7db0">Site développé par Nathanael Desnoyers&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Repository<a target="_blank" style="color:#7b2bc3;" href="https://github.com/Kusanagi8200">&nbsp;github.com/Kusanagi8200</a></h3></th>
+<th width="1000"><h3 style="color:#4e7db0">..........&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Repository<a target="_blank" style="color:#7b2bc3;" href="https://github.com/Kusanagi8200">&nbsp;github.com/Kusanagi8200</a></h3></th>
 </table>
 </center>
 
