@@ -59,7 +59,7 @@ if (isset($_POST['username'])){
 <br><br>
 
 <form class="box" action="" method="post" name="login">
-<h1 class="box-logo box-title"><font color="#F5FFFA"><b>PROJET SRVAPP01</b></font></h1>
+<h1 class="box-logo box-title"><font color="#F5FFFA"><b>........</b></font></h1>
 <h3 class="box-title"><font color="#244B5C"><center>BIENVENUE</center></font></h3>
 <input type="text" class="box-input" name="username" placeholder="IDENTIFIANT">
 <input type="password" class="box-input" name="password" placeholder="PASSWORD">
@@ -74,7 +74,7 @@ if (isset($_POST['username'])){
 
 <center>
 <table>
-<th width="1000"><h3 style="color:#4e7db0">Site développé par Nathanael Desnoyers&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Repository<a target="_blank" style="color:#7b2bc3;" href="https://github.com/Kusanagi8200">&nbsp;github.com/Kusanagi8200</a></h3></th>
+<th width="1000"><h3 style="color:#4e7db0">  .......  <a target="_blank" style="color:#7b2bc3;" href="https://github.com/Kusanagi8200">&nbsp;github.com/Kusanagi8200</a></h3></th>
 </table>
 </center>
 
